@@ -1,6 +1,14 @@
 {
   "name": "fcc-learn-npm-package-json",
   "author": "Hannah Eich",
+  "description": "A project for the freeCodeCamp backend curriculum",
+  "keywords": [
+    "freecodecamp",
+    "programming",
+    "backend"
+  ],
+  "license": "MIT",
+  "version": "1.0.0",
   "dependencies": {
     "express": "^4.14.0"
   },
